@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f17c873619bda91042da4cb45551fde",
+    "revision": "b57431d22a046fb116dfc7253b00adde",
     "url": "/Gurenko-portfolio/index.html"
   },
   {
-    "revision": "34cc3d99e8a8fa27b819",
+    "revision": "b743f79496b74801fd90",
     "url": "/Gurenko-portfolio/static/css/main.0452b16a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Gurenko-portfolio/static/js/2.19f15b8a.chunk.js"
   },
   {
-    "revision": "34cc3d99e8a8fa27b819",
-    "url": "/Gurenko-portfolio/static/js/main.3fbbc57a.chunk.js"
+    "revision": "b743f79496b74801fd90",
+    "url": "/Gurenko-portfolio/static/js/main.0a61dbde.chunk.js"
   },
   {
     "revision": "16dc68cf2607ba7f58db",
